@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Body Gold",
+  "base_artist": "Oh Wonder",
+  "createdAt": "2026-03-29T14:36:05.114653Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Body Gold",
+      "artist": "Oh Wonder",
+      "has_synced": true,
+      "path": "select/01_Body_Gold_Oh_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Body Gold",
+      "artist": "Oh Wonder",
+      "has_synced": true,
+      "path": "select/02_Body_Gold_Oh_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Body Gold - Remix",
+      "artist": "Obi Wu",
+      "has_synced": false,
+      "path": "select/03_Body_Gold_-_Remix_Obi_Wu.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Body Gold",
+      "artist": "Obi Wu Kenobi (Featuring Wu Dynasty,Lady Wu ,Official Da Kidd & JewlzCashmen)",
+      "has_synced": true,
+      "path": "select/04_Body_Gold_Obi_Wu_Kenobi_(Featuring_Wu_Dynasty,Lady_Wu_,Official_Da_Kidd_&_JewlzCashmen).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Body Gold (Louis the Child remix)",
+      "artist": "Oh Wonder",
+      "has_synced": true,
+      "path": "select/05_Body_Gold_(Louis_the_Child_remix)_Oh_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Body Gold (10 Years On)",
+      "artist": "Oh Wonder",
+      "has_synced": false,
+      "path": "select/06_Body_Gold_(10_Years_On)_Oh_Wonder.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Body Gold",
+      "artist": "Oh Wonder",
+      "has_synced": false,
+      "path": "select/pl_01_Body_Gold_Oh_Wonder.txt"
+    }
+  ]
+}
